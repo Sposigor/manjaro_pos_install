@@ -1,2 +1,3 @@
-# manjaro_pos_install
-Instalação de programas e configurações basicas no manjaro
+# manjaro Pós Instalação
+
+Comandos shell para instalação de programas e configurações para o pós instalação do manjaro
